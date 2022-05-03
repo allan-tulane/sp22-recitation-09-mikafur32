@@ -1,6 +1,6 @@
 from collections import deque
 from heapq import heappush, heappop 
-
+#WHAT IS HAPPENING
 num_edges_visited = 0
 frontier = {}
 previous_source = ""
